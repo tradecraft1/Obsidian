@@ -78,10 +78,10 @@ Logs are saved to sync_raindrop_to_obsidian.log in the script's directory, provi
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## License
-This project is licensed under the GPL3.
+This project is licensed under the [GPL v3](https://github.com/tradecraft1/Obsidian/blob/main/LICENSE)
 
 ## Acknowledgements
-Raindrop.io API Documentation
-Obsidian for its incredible markdown-based organization platform.
+[Raindrop.io API Documentation](https://developer.raindrop.io/)\
+[Obsidian](https://obsidian.md/) for its incredible markdown-based organization platform
 
 
