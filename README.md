@@ -1,7 +1,6 @@
 # Raindrop.io to Obsidian Sync Script
 
 This script enables seamless synchronization of your **Raindrop.io** bookmarks to markdown files in your **Obsidian** vault. Bookmarks are categorized and tagged automatically based on their Raindrop.io collections, making it easier to organize and reference them in Obsidian.
-
 ---
 
 ## Features
@@ -11,7 +10,6 @@ This script enables seamless synchronization of your **Raindrop.io** bookmarks t
   - Example: A bookmark in `Bookmark Bar/Personal/Recipes` is tagged as `#Bookmark_Bar #Personal #Recipes`.
 - **Unsorted Bookmarks Handling**: Bookmarks in the `Unsorted` collection or `Trash` folder are stored in a separate file (default: `bookmarks_untagged.md`).
 - **Detailed Logging**: Comprehensive logging to help troubleshoot and monitor the synchronization process.
-
 ---
 
 ## Requirements
@@ -27,8 +25,8 @@ This script enables seamless synchronization of your **Raindrop.io** bookmarks t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/raindrop-to-obsidian.git
-   cd raindrop-to-obsidian
+   git clone https://github.com/tradecraft1/Obsidian_Raindrop_Sync.git
+   cd Obsidian_Raindrop_Sync
 
 2. Install required dependencies:
     ```bash
@@ -49,7 +47,6 @@ Run the script to sync bookmarks:
 * Tagged Bookmarks: Saved to the file specified by OUTPUT_FILE (e.g., bookmarks.md).
 * Untagged Bookmarks: Saved to the file specified by UNTAGGED_FILE (e.g., bookmarks_untagged.md).
 * Real-Time Updates: Automatically syncs changes from Raindrop.io, including bookmark deletions or movements
-
 
 ## Example
 Tagged Bookmark Entry
