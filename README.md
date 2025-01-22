@@ -48,6 +48,7 @@ Run the script to sync bookmarks:
 * Untagged Bookmarks: Saved to the file specified by UNTAGGED_FILE (e.g., bookmarks_untagged.md).
 * Real-Time Updates: Automatically syncs changes from Raindrop.io, including bookmark deletions or movements
 
+
 ## Example
 Tagged Bookmark Entry
 ```bash
@@ -74,8 +75,10 @@ Logs are saved to sync_raindrop_to_obsidian.log in the script's directory, provi
 ## Contribution
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
+
 ## License
 This project is licensed under the [GPL v3](https://github.com/tradecraft1/Obsidian/blob/main/LICENSE)
+
 
 ## Acknowledgements
 [Raindrop.io API Documentation](https://developer.raindrop.io/)\
