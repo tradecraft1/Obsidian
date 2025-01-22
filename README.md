@@ -1,3 +1,10 @@
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue) 
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue) 
+![License](https://img.shields.io/github/license/tradecraft1/Obsidian_Raindrop_Sync) 
+![GitHub issues](https://img.shields.io/github/issues/tradecraft1/Obsidian_Raindrop_Sync) 
+![GitHub stars](https://img.shields.io/github/stars/tradecraft1/Obsidian_Raindrop_Sync)
+
+
 # Raindrop.io to Obsidian Sync Script
 
 This script enables seamless synchronization of your **Raindrop.io** bookmarks to markdown files in your **Obsidian** vault. Bookmarks are categorized and tagged automatically based on their Raindrop.io collections, making it easier to organize and reference them in Obsidian.
