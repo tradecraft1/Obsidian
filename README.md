@@ -53,7 +53,6 @@ Run the script to sync bookmarks:
 ## Key Operations
 * Tagged Bookmarks: Saved to the file specified by OUTPUT_FILE (e.g., bookmarks.md).
 * Untagged Bookmarks: Saved to the file specified by UNTAGGED_FILE (e.g., bookmarks_untagged.md).
-* Real-Time Updates: Automatically syncs changes from Raindrop.io, including bookmark deletions or movements
 
 
 ## Example
